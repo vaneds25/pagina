@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Roboto', sans-serif!important;
+	margin: 0%;
+}
+
+.navbar-header, .navbar-nav{
+	padding-top: 20px;
+	font-size: 12pt!important;
+}
+
+.app{
+
+	font-size: 50px;
+}
+
+#primeraseccion{
+	text-align: center;
+	min-height: 350px;
+	padding-top: 100px;
+	padding-bottom: 0px;
+	background-image: url("fondo.png");
+	
+	color: white;
+}
+
+#segundaseccion{
+	text-align: center;
+	min-height: 250px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	height: 100px;
+	background-color: #10c9c3;
+	padding-left: 10%;
+	padding-right: 10%;
+	color: white;
+}
+
+#terceraseccion{
+	    min-height: 350px;
+	    font-size: 12.5pt!important;
+}
+
+
+.btn {
+	background-color: #10c9c3!important;
+	text-align: center;
+	margin-top: 20px;
+	width: 250px;
+		height: 20px;
+	color: white!important;
+	
+}
+
+.bichota
+{
+	padding-top: 100px;
+}
+.fot{
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+
+
+footer {
+	text-align: center;
+	background-color: #141414;
+	color: #bcbcbc;
+
+}
